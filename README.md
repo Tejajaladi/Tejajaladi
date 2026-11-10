@@ -18,9 +18,9 @@
 
 <div align="left">
   <!-- unified height = 160 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark" height="160" alt="GitHub stats" style="display:block; margin:0 auto;" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="160" alt="streak graph" style="vertical-align:top;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="160" alt="languages graph" style="vertical-align:top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejajaladi&show_icons=true&theme=chartreuse-dark" height="160" alt="GitHub stats" style="display:block; margin:0 auto;" />
+  <img src="https://streak-stats.demolab.com?user=Tejajaladi&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="160" alt="streak graph" style="vertical-align:top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejajaladi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="160" alt="languages graph" style="vertical-align:top;" />
 </div>
 
 ###
@@ -76,23 +76,23 @@ Data Cleansing, Data Integration, Analytical Reporting, Business Insights, Workf
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejajaladi/Tejajaladi/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejajaladi/Tejajaladi/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tejajaladi/Tejajaladi/output/pacman-contribution-graph.svg" />
 </picture>
 
 ###
 
 <div align="center">
   <img height="450"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&radius=16&theme=tokyo-night&area=true&hide_title=false&hide_border=false"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=Tejajaladi&radius=16&theme=tokyo-night&area=true&hide_title=false&hide_border=false"
      alt="activity-graph graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
+  <img height="40" src="https://visitor-badge.laobi.icu/badge?page_id=Tejajaladi.Tejajaladi" />
 </div>
 
 ###
