@@ -1,6 +1,6 @@
 ## 🐐 Teja Jaladi
 
-`Data Analyst | Data Engineer`
+`Data Engineer`
 
 ## The Human Behind the Data :
 
