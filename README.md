@@ -1,6 +1,6 @@
 ## 🐐 Teja Jaladi
 
-`Data Analyst | Azure Data Engineer`
+`Data Analyst | Data Engineer`
 
 ## The Human Behind the Data :
 
